@@ -1,0 +1,2 @@
+# mlops-zoomcamp-trail
+Basics
